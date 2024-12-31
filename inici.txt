@@ -1,3 +1,4 @@
 Això es un projecte d'exemple.
 Aquest projecte és per practicar Git.
 Correccions generals.
+Nova funcionalitat en desenvolupament.
