@@ -1,1 +1,2 @@
 Recordar practicar Git cada semana.
+Practicar merges a Git.
